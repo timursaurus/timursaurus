@@ -3,7 +3,7 @@ The name is Timur, surf the web as timursaurus.
 
 🌻 Love working with Vue, currently relearning React with TypeScript
 
-Get in touch 👇
+🎯 Get in touch 👇
 
 [`/email`](mailto:timursaurus@gmail.com)
 [`/telegram`](https://www.instagram.com/timursaurus/)
