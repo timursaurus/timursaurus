@@ -5,7 +5,7 @@ The name is Timur, surf the web as timursaurus.
 
 🔧 Last projects:
 - [sandar - numbers to kyrgyz & kazakh/kazakh-latin words.](https://www.npmjs.com/package/sandar)
-- [Fledge - Displaying with Avia Flights using FlightRadar API](https://flyfledge.herokuapp.com/)
+- [Fledge - Displaying Avia Flights using FlightRadar API](https://flyfledge.herokuapp.com/)
 
 
 🎯 Get in touch 👇
