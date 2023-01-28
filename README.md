@@ -8,7 +8,7 @@ The name is Timur, surf the web as timursaurus.
 [`/email`](mailto:timursaurus@gmail.com)
 [`/telegram`](https://www.t.me/timursaurus/)
 [`/instagram`](https://www.instagram.com/timursaurus/)
-[`/linkedin`](https://www.linkedin.com/in/timurbolotov/)
+[`/linkedin`](https://www.linkedin.com/in/saurus/)
 
 
 
