@@ -1,7 +1,7 @@
 ## ✌ Hello
 The name is Timur, surf the web as timursaurus.
 
-🌻 Love working with Vue
+🌻 Love working with Vue and TypeScript
 
 🎯 Get in touch 👇
 
