@@ -5,6 +5,7 @@ The name is Timur, surf the web as timursaurus.
 
 🎯 Get in touch 👇
 
+[`/website`](https://timursaurus.com)
 [`/email`](mailto:timursaurus@gmail.com)
 [`/telegram`](https://www.t.me/timursaurus/)
 [`/instagram`](https://www.instagram.com/timursaurus/)
